@@ -13,7 +13,7 @@ Works very well to import [Kenney's sprite assets](http://opengameart.org/users/
 Installation as a unity module via a git link in the PackageManager or direct editing of `Packages/manifest.json` is supported:
 
 ```
-"com.portaldweller.textureatlasslicer.unity" : "https://github.com/PortalDweller/Unity3D-TextureAtlasSlicer",
+"com.portaldweller.textureatlasslicer.unity" : "https://github.com/PortalDweller/Unity3D-TextureAtlasSlicer.git",
 ```
 
 ## Usage

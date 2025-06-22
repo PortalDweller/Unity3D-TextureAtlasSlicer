@@ -1,0 +1,18 @@
+{
+  "name": "com.portaldweller.textureatlasslicer.unity",
+  "author": "PortalDweller",
+  "displayName": "PortalDweller Texture Atlas Slicer",
+  "description": "PortalDweller Texture Atlas Slicer",
+  "unity": "2020.3",
+  "version": "1.0.0",
+  "keywords": [
+    "2d",
+    "atlas",
+    "sprite"
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PortalDweller/Unity3D-TextureAtlasSlicer.git"
+  }
+}
